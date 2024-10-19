@@ -1,0 +1,5 @@
+com\mycompany\kdelectronicscrud\Main\Main.class
+com\mycompany\kdelectronicscrud\Controller\ProductoController.class
+com\mycompany\kdelectronicscrud\Model\Producto.class
+com\mycompany\kdelectronicscrud\Dao\ProductoDao.class
+com\mycompany\kdelectronicscrud\View\ProductoView.class
