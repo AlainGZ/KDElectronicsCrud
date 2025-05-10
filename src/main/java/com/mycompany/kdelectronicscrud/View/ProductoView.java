@@ -20,7 +20,7 @@ public class ProductoView {
         Scanner scanner = new Scanner(System.in);
         int opcion;
         do {
-            System.out.println("1. Registrar Producto");
+            System.out.println("1. Registrar Producto ");
             System.out.println("2. Consultar Producto por Código");
             System.out.println("3. Actualizar Producto");
             System.out.println("4. Eliminar Producto");
